@@ -230,53 +230,9 @@ Benefits:
 - Scalable data processing
 
 
-# Project Phases
-
-
-## Phase 1 - Requirement Analysis and Design ✅
-
-
-Completed:
-
-- GitHub repository setup
-- Dataset analysis
-- Data dictionary creation
-- Relationship design
-- Source-to-target mapping
-- Data quality assessment
-- Business rule definition
-- Solution architecture design
-
-
-## Phase 2 - Fabric Implementation 🚧
-
-
-Planned activities:
-
-- Create Fabric workspace
-- Create Lakehouses
-- Configure OneLake storage
-- Load source datasets
-- Develop Bronze pipelines
-- Develop Silver transformation notebooks
-- Create Gold analytical model
-
-
-## Phase 3 - Reporting and Optimization
-
-
-Planned activities:
-
-- Build Power BI dashboards
-- Performance optimization
-- Monitoring implementation
-- Documentation completion
-
 
 
 # Repository Structure
-
-
 
 Fabric-retail-sales-data-platform-Project
 │
@@ -360,8 +316,8 @@ Future improvements:
 
 
 # Author
-
-Data Engineering POC
+Alli Revanth
+Data Engineering Fabric Project
 
 Technology:
 Microsoft Fabric | PySpark | Power BI | GitHub
