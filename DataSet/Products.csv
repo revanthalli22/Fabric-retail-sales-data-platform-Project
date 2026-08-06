@@ -1,0 +1,101 @@
+product_id,product_name,category,price,brand
+1,Laptop Pro 15,Electronics,1200,TechNova
+2,Smartphone X,Electronics,800,MobileMax
+3,Wireless Earbuds,Electronics,150,SoundBeat
+4,Office Chair,Furniture,200,ComfortPlus
+5,Desk Lamp,Furniture,45,LightHouse
+6,Gaming Mouse,Electronics,70,ClickPro
+7,Mechanical Keyboard,Electronics,120,KeyMaster
+8,Monitor 24 inch,Electronics,250,ViewSharp
+9,Tablet A10,Electronics,,TabWorld
+10,USB Cable,Furniture,10,WireFlex
+11,Water Bottle,Home,15,FreshLife
+12,Coffee Maker,Home,90,BrewMaster
+13,Blender Pro,Home,110,KitchenPro
+14,Air Fryer,Home,180,HomeChef
+15,Vacuum Cleaner,Home,220,CleanMax
+16,Sofa Set,Furniture,900,HomeLux
+17,Dining Table,Furniture,700,WoodCraft
+18,Bed Frame,Furniture,650,SleepWell
+19,Bookshelf,Furniture,130,WoodCraft
+20,Wall Clock,Home,35,TimeArt
+21,Laptop Air 13,Electronics,1000,TechNova
+22,Smartwatch S1,Electronics,300,MobileMax
+23,Power Bank,Electronics,40,ChargeUp
+24,HDMI Cable,Electronics,12,WireFlex
+25,Printer Ink,Electronics,25,PrintPlus
+26,Notebook Set,Stationery,20,PaperWorld
+27,Pen Pack,Stationery,5,WriteRight
+28,Office Desk,Furniture,350,ComfortPlus
+29,Recliner Chair,Furniture,850,HomeLux
+30,LED Bulb,Home,8,LightHouse
+31,Smart TV 42,Electronics,600,ViewSharp
+32,Smart TV 55,Electronics,900,ViewSharp
+33,Headphones,Electronics,100,SoundBeat
+34,Speakers,Electronics,130,SoundBeat
+35,Router,Electronics,80,NetSpeed
+36,Hard Drive 1TB,Electronics,90,DataSafe
+37,SSD 512GB,Electronics,110,DataSafe
+38,Graphics Card,Electronics,500,GameTech
+39,Gaming Console,Electronics,450,GameTech
+40,Mouse Pad,Electronics,10,ClickPro
+41,Kitchen Knife Set,Home,60,ChefPro
+42,Microwave,Home,150,HomeChef
+43,Refrigerator,Home,1100,CoolHome
+44,Washing Machine,Home,750,WashMaster
+45,Iron Box,Home,40,HeatPro
+46,Shoe Rack,Furniture,70,WoodCraft
+47,Curtains,Furniture,,HomeLux
+48,Mattress,Furniture,400,SleepWell
+49,Pillow Set,Home,25,ComfortPlus
+50,Blanket,Home,30,ComfortPlus
+51,Notebook Pro,Stationery,18,PaperWorld
+52,Marker Set,Stationery,12,WriteRight
+53,Stapler,Stationery,8,OfficeTools
+54,Folder Set,Stationery,15,OfficeTools
+55,Router Mini,Electronics,60,NetSpeed
+56,Smart Light,Home,45,LightHouse
+57,Smart Plug,Home,35,HomeTech
+58,Smart Camera,Electronics,120,SecureEye
+59,Door Lock Smart,Electronics,200,SecureEye
+60,Air Conditioner,Home,1200,CoolHome
+61,Heater,Home,300,WarmZone
+62,Ceiling Fan,Home,100,AirFlow
+63,Study Table,Furniture,180,ComfortPlus
+64,Office Chair Plus,Furniture,220,ComfortPlus
+65,Monitor 27 inch,Electronics,300,ViewSharp
+66,Laptop Basic,Electronics,700,TechNova
+67,Smartphone Lite,Electronics,400,MobileMax
+68,Tablet Mini,Electronics,250,TabWorld
+69,Bluetooth Speaker,Electronics,90,SoundBeat
+70,USB Hub,Electronics,25,WireFlex
+71,Extension Board,Electronics,20,WireFlex
+72,Electric Kettle,Home,35,KitchenPro
+73,Toaster,Home,40,KitchenPro
+74,Juicer,Home,85,KitchenPro
+75,Food Processor,Home,140,KitchenPro
+76,Books Set A,Stationery,50,PaperWorld
+77,Books Set B,Stationery,55,PaperWorld
+78,Art Supplies,Stationery,60,CreativeHub
+79,Drawing Kit,Stationery,45,CreativeHub
+80,Paint Set,Stationery,70,CreativeHub
+81,Office Lamp,Furniture,50,LightHouse
+82,Floor Lamp,Furniture,80,LightHouse
+83,Storage Box,Home,25,HomeLux
+84,Wall Shelf,Furniture,90,WoodCraft
+85,Kitchen Shelf,Furniture,110,WoodCraft
+86,Smart Watch Lite,Electronics,180,MobileMax
+87,Fitness Band,Electronics,70,MobileMax
+88,VR Headset,Electronics,350,GameTech
+89,Gaming Chair,Furniture,300,GameComfort
+90,Office Drawer,Furniture,120,ComfortPlus
+91,Pen Drive 32GB,Electronics,15,DataSafe
+92,Pen Drive 64GB,Electronics,25,DataSafe
+93,External SSD,Electronics,200,DataSafe
+94,Smart Thermostat,Home,220,HomeTech
+95,Security Camera,Electronics,130,SecureEye
+96,Router Pro,Electronics,140,NetSpeed
+97,Electric Stove,Home,250,KitchenPro
+98,Hair Dryer,Home,60,HomeCare
+99,Air Purifier,Home,180,HomeCare
+100,Smart Fridge,Home,1500,CoolHome
