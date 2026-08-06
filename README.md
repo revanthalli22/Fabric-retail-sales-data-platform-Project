@@ -174,11 +174,7 @@ Example:
                 |
                 |
 
-DIM_PRODUCT ---- FACT_SALES ---- DIM_DATE
-|
-|
-DIM_STORE
-
+DIM_STORE--DIM_PRODUCT ---- FACT_SALES ---- DIM_DATE
 
 
 # Data Quality Framework
